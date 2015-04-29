@@ -1,0 +1,8 @@
+name: YouthCreativeSpace
+main: com.kodingkingdom.youthcreativespace.YouthCreativeSpacePlugin
+version: 0.0.1
+softdepend: [WorldEdit, PlotMe, CrafterCoordinator, KodeBuilder, CrafterMaker]
+commands:
+   youth:
+   creative:
+   space:
